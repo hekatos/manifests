@@ -141,6 +141,10 @@ SxBypass:
   repository:
     uri: https://repo.sx-pokego.xyz
 
+UconnectBypass:
+  repository:
+    uri: https://bypass.beerpsi.me/repo
+
 USAABP:
   repository:
     uri: https://level3tjg.me/repo
