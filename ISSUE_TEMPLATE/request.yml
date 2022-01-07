@@ -1,0 +1,70 @@
+name: App Request
+description: File an app you want to see added to the table
+title: "[Request]: "
+labels: ["request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please ensure that your app isn't already listed at https://joshuah345.github.io/#/ before making an issue.
+        However, if a current bypass isn't working, making an issue is fine.
+
+        Furthermore, please check if there are any other open issues for your app.
+
+        Keep in mind that apps from Niantic/Nintendo (such as Pokémon Go) are patched frequently to patch their jailbreak detection. We will not deal with these apps, or any other apps of a similar nature.
+  - type: input
+    id: tweak
+    attributes:
+      label: App to request
+      description: Make the name as close to what's on App Store as possible.
+      placeholder: ex. Pokémon Go
+  - type: input
+    id: appstore_uri
+    attributes:
+      label: App Store link
+      description: The easiest way to find an App Store link is to google `site:apps.apple.com <app name>` and copy link of first result.
+      placeholder: https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345
+  - type: input
+    id: appstore_version
+    attributes:
+      label: App version
+      description: Latest version of the app (when the issue was made). You can look for it on the What's New section of an App Store listing
+      placeholder: '0.191.3'
+  - type: input
+    id: current_jailbreak
+    attributes:
+      label: Jailbreak
+      description: What jailbreak are you using?
+      placeholder: Odyssey
+  - type: checkboxes
+    id: bypass_tried
+    attributes:
+      label: Bypass tried
+      description: Try at least one bypass, your issue won't be considered otherwise.
+      options:
+        - label: A-Bypass
+        - label: Liberty Lite (Beta)
+        - label: Hestia
+        - label: Shadow
+        - label: HideJB
+        - label: iHide
+        - label: KernBypass (iOS 12.0 - 14.2)
+        - label: vnodebypass
+        - label: Disabling tweak injection with Choicy or libhooker-configurator
+  - type: textarea
+    id: what_worked
+    attributes:
+      label: Which bypass worked?
+      description: This is also a place to fill in your bypass, if it isn't listed above.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist before submission
+      description: Please ensure you've matched all the criteria before submission.
+      options:
+        - label: The app is missing from the table, or bypasses are not working anymore.
+          required: true
+        - label: I have checked through all open issues and none matched my app.
+          required: true
+        - label: I have tried at least one bypass before submission.
+          required: true
