@@ -27,7 +27,7 @@ If `pre-commit` is complaining about `UnicodeDecodeError`, a temporary workaroun
 ```
 
 # Adding a new bypass/app
-The files to edit are all under `manifests/`:
+The files to edit are in this repository.
 - `bypasses.yaml` contains information on the bypass themselves; mainly, its name and the repo it's hosted on.
 - `apps/` contains individual files for each app, containing basic information and which bypass to use.
     - Filename must be `<app name>.yaml`
