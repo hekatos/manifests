@@ -1,6 +1,10 @@
 #S-Bypass:
 #  notes: Paid bypass with in-app activation. [Direct .deb download link](http://beinapple.me/debs/109.deb).
 
+Axis Bank Patch:
+  repository:
+    uri: https://bypass.beerpsi.me/repo
+   
 A-Bypass:
   guide: https://bypass.beerpsi.me/#/tools/tweaks?id=a-bypass
   repository:
