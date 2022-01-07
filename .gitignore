@@ -261,3 +261,5 @@ fabric.properties
 
 .idea/
 manifests/.DS_Store
+
+.DS_Store

@@ -1,4 +1,4 @@
 name: Axis Bank Mobile Banking
 uri: https://apps.apple.com/in/app/axis-bank-mobile-banking/id699582556
 bypasses:
-- name: AxisMobilePatch
+- name: Axis Bank Patch
