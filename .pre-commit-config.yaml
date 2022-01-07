@@ -6,8 +6,8 @@ repos:
     args: [--markdown-linebreak-ext=md]
   - id: check-yaml
   - id: sort-simple-yaml
-    files: ^manifests/
+    files: ^
   - id: add-bundleid-and-icon
-    files: ^manifests/apps/
+    files: ^apps/
   - id: mixed-line-ending
     args: [--fix=lf]
