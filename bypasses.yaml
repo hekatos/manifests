@@ -1,10 +1,6 @@
 #S-Bypass:
 #  notes: Paid bypass with in-app activation. [Direct .deb download link](http://beinapple.me/debs/109.deb).
 
-Axis Bank Patch:
-  repository:
-    uri: https://bypass.beerpsi.me/repo
-   
 A-Bypass:
   guide: https://bypass.beerpsi.me/#/tools/tweaks?id=a-bypass
   repository:
@@ -14,6 +10,10 @@ AppStore++:
   notes: Downgrade the app to the specified version.
   repository:
     uri: https://cokepokes.github.io
+
+Axis Bank Patch:
+  repository:
+    uri: https://bypass.beerpsi.me/repo
 
 BarclaysPwn:
   repository:
@@ -52,6 +52,10 @@ Funimation JB Bypass:
     uri: https://sarahh12099.github.io/repo
 
 GenshinJailbreakBypass:
+  repository:
+    uri: https://bypass.beerpsi.me/repo
+
+GojekEnabler:
   repository:
     uri: https://bypass.beerpsi.me/repo
 
@@ -146,13 +150,13 @@ SxBypass:
   repository:
     uri: https://repo.sx-pokego.xyz
 
-UconnectBypass:
-  repository:
-    uri: https://bypass.beerpsi.me/repo
-
 USAABP:
   repository:
     uri: https://level3tjg.me/repo
+
+UconnectBypass:
+  repository:
+    uri: https://bypass.beerpsi.me/repo
 
 UnSub:
   repository:
