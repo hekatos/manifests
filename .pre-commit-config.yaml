@@ -6,7 +6,7 @@ repos:
     args: [--markdown-linebreak-ext=md]
   - id: check-yaml
   - id: sort-simple-yaml
-    files: ^
+    files: ^bypasses.yaml$
   - id: add-bundleid-and-icon
     files: ^apps/
   - id: mixed-line-ending
