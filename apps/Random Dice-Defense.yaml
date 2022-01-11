@@ -1,6 +1,6 @@
 name: 'Random Dice: Defense'
-bundleId: com.percent.ios.randomdicewars
+bundleId: com.percent.royaldice
 uri: https://apps.apple.com/us/app/random-dice-defense/id1462877149
-icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/09/41/0a094167-8570-53c9-a88e-a52cd87ab536/source/512x512bb.jpg
+icon: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/9b/67/f89b672a-ae4c-c6f3-a79d-0854fb4d2e0c/source/512x512bb.jpg
 bypasses:
 - notes: App uses LIAPP which there are currently no bypasses for.
