@@ -15,6 +15,10 @@ Axis Bank Patch:
   repository:
     uri: https://bypass.beerpsi.me/repo
 
+Banks Patch:
+  repository:
+    uri: https://apt.fouadraheb.com
+
 BarclaysPwn:
   repository:
     uri: https://ios.jeffsjunk.co.uk
@@ -31,6 +35,10 @@ Choicy:
 DIRECTV JB Bypass:
   repository:
     uri: https://sarahh12099.github.io/repo
+
+FISVBP:
+  repository:
+    uri: https://level3tjg.me/repo
 
 Flex 3 Beta:
   notes: Repo link is for Flex 3 Beta itself.
