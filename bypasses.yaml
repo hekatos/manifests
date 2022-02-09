@@ -93,6 +93,10 @@ InteJB:
   repository:
     uri: https://julioverne.github.io
 
+JailedMonkey:
+ repository:
+  uri: https://hekatos.github.io/repo
+
 Jyske Bank JB Bypass:
   repository:
     uri: https://ios.jeffsjunk.co.uk
