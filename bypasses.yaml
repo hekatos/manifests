@@ -109,6 +109,7 @@ KernBypass:
 
 Liberty Lite (Beta):
   guide: https://bypass.beerpsi.me/#/tools/tweaks?id=liberty-lite-beta
+  notes: Liberty is currently broken on unc0ver (14.4+).
   repository:
     uri: https://ryleyangus.com/repo
 
@@ -202,6 +203,6 @@ libhooker-configurator:
 
 vnodebypass:
   guide: https://bypass.beerpsi.me/#/tools/kernel-level?id=vnodebypass
-  notes: Exercise caution when using kernel-level bypasses.
+  notes: Exercise caution when using kernel-level bypasses. Not working on unc0ver (14.6+) due to libkrw needing an update.
   repository:
     uri: https://cydia.ichitaso.com
