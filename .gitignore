@@ -263,3 +263,7 @@ fabric.properties
 manifests/.DS_Store
 
 .DS_Store
+
+apps/commitlist.txt
+
+apps/gitlog.txt

@@ -171,6 +171,10 @@ TCBNoJB:
   repository:
     uri: https://bypass.beerpsi.me/repo
 
+UKGBP:
+  repository:
+  uri: https://level3tjg.me/repo
+
 USAABP:
   repository:
     uri: https://level3tjg.me/repo
