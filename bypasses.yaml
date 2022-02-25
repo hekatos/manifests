@@ -173,7 +173,7 @@ TCBNoJB:
 
 UKGBP:
   repository:
-  uri: https://level3tjg.me/repo
+    uri: https://level3tjg.me/repo
 
 USAABP:
   repository:
