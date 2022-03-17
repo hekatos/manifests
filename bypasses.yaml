@@ -78,7 +78,7 @@ Gympass JB Bypass:
 Hestia:
   guide: https://bypass.beerpsi.me/#/tools/tweaks?id=hestia
   repository:
-    uri: https://repo.packix.com
+    uri: https://havoc.app
 
 HideJB:
   guide: https://bypass.beerpsi.me/#/tools/tweaks?id=shadow
