@@ -2,7 +2,7 @@
 #  notes: Paid bypass with in-app activation. [Direct .deb download link](http://beinapple.me/debs/109.deb).
 
 A-Bypass:
-  guide: https://bypass.beerpsi.me/#/tools/tweaks?id=a-bypass
+  guide: https://bypass.beerpsi.me/tools/tweaks/#a-bypass 
   repository:
     uri: https://repo.co.kr
 
@@ -32,7 +32,7 @@ ChaseBP:
     uri: https://level3tjg.me/repo
 
 Choicy:
-  guide: https://bypass.beerpsi.me/#/tools/non-bypasses?id=choicy
+  guide: https://bypass.beerpsi.me/tools/non-bypasses/#choicy
   repository:
     uri: https://opa334.github.io
 
@@ -50,12 +50,12 @@ Flex 3 Beta:
     uri: https://getdelta.co
 
 FlyJB X:
-  guide: https://bypass.beerpsi.me/#/tools/tweaks?id=flyjb-amp-flyjb-x
+  guide: https://bypass.beerpsi.me/beta/tools/tweaks/#flyjb--flyjb-x
   repository:
     uri: https://repo.xsf1re.kr
 
 FlyJB:
-  guide: https://bypass.beerpsi.me/#/tools/tweaks?id=flyjb-amp-flyjb-x
+  guide: https://bypass.beerpsi.me/beta/tools/tweaks/#flyjb--flyjb-x
   repository:
     uri: https://repo.xsf1re.kr
 
@@ -76,12 +76,12 @@ Gympass JB Bypass:
     uri: https://sarahh12099.github.io/repo
 
 Hestia:
-  guide: https://bypass.beerpsi.me/#/tools/tweaks?id=hestia
+  guide: https://bypass.beerpsi.me/tools/tweaks/#hestia
   repository:
     uri: https://havoc.app
 
 HideJB:
-  guide: https://bypass.beerpsi.me/#/tools/tweaks?id=shadow
+  guide: https://bypass.beerpsi.me/tools/tweaks/#shadow
   repository:
     uri: https://apt.thebigboss.org/repofiles/cydia
 
@@ -102,13 +102,13 @@ Jyske Bank JB Bypass:
     uri: https://ios.jeffsjunk.co.uk
 
 KernBypass:
-  guide: https://bypass.beerpsi.me/#/tools/kernel-level?id=kernbypass
+  guide: https://bypass.beerpsi.me/tools/kernel-level/#kernbypass
   notes: iOS 12.0 - 14.2. Exercise caution when using kernel-level bypasses.
   repository:
     uri: https://repo.xsf1re.kr
 
 Liberty Lite (Beta):
-  guide: https://bypass.beerpsi.me/#/tools/tweaks?id=liberty-lite-beta
+  guide: https://bypass.beerpsi.me/tools/tweaks/#liberty-lite-beta
   notes: Liberty is currently broken on unc0ver (14.4+).
   repository:
     uri: https://ryleyangus.com/repo
@@ -154,7 +154,7 @@ RDR2Patch:
     uri: https://ryleyangus.com/repo
 
 Shadow:
-  guide: https://bypass.beerpsi.me/#/tools/tweaks?id=shadow
+  guide: https://bypass.beerpsi.me/tools/tweaks/#shadow
   repository:
     uri: https://ios.jjolano.me
 
@@ -196,17 +196,17 @@ Zoom JB Bypass:
     uri: https://sarahh12099.github.io/repo
 
 iHide:
-  guide: https://bypass.beerpsi.me/#/tools/tweaks?id=ihide
+  guide: https://bypass.beerpsi.me/tools/tweaks/#ihide
   repository:
     uri: https://repo.kc57.com/
 
 libhooker-configurator:
-  guide: https://bypass.beerpsi.me/#/tools/non-bypasses?id=libhooker-configurator
+  guide: https://bypass.beerpsi.me/tools/non-bypasses/#libhooker-configurator
   repository:
     uri: https://repo.theodyssey.dev
 
 vnodebypass:
-  guide: https://bypass.beerpsi.me/#/tools/kernel-level?id=vnodebypass
+  guide: https://bypass.beerpsi.me/tools/kernel-level/#vnodebypass
   notes: Exercise caution when using kernel-level bypasses. Not working on unc0ver (14.6+) due to libkrw needing an update.
   repository:
     uri: https://cydia.ichitaso.com
