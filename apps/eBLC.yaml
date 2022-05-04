@@ -1,6 +1,0 @@
-name: eBLC Bank Mobile Banking
-bundleId: com.ITS.BLC
-uri: https://apps.apple.com/us/app/eblc-bank-mobile-banking/id1539336388
-icon: https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/3a/d5/b5/3ad5b5ab-5916-2942-5c33-b3f99d448c3e/source/512x512bb.jpg
-bypasses:
-- name: null
