@@ -1,0 +1,6 @@
+name: EPIX Stream with TV Package
+bundleId: com.epix.epixhd
+uri: https://apps.apple.com/us/app/epix-stream-with-tv-package/id430018488
+icon: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/71/31/80/713180a7-ad0c-aab2-544c-79881fa23ef1/AppIcon-EPIX-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+bypasses:
+- name: A-Bypass
