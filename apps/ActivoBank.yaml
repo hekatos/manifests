@@ -1,0 +1,6 @@
+name: ActivoBank
+bundleId: pt.activobank.Activobank
+uri: https://apps.apple.com/pt/app/activobank/id344521216
+icon: https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/b8/ba/c2b8baeb-776d-2c64-3dda-b68f555e84ee/AppIconAB-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+bypasses:
+- name: A-Bypass

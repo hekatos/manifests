@@ -1,0 +1,6 @@
+name: Toyota
+bundleId: com.toyota.OneApp
+uri: https://apps.apple.com/us/app/toyota/id1455685357
+icon: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/32/15/5c/32155c85-3474-e769-17be-ee6888d01a2b/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
+bypasses:
+- name: Hestia

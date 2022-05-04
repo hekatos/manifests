@@ -1,0 +1,8 @@
+name: Final Fantasy XIV Companion
+bundleId: com.square-enix.ffxivcomapp-n
+uri: https://apps.apple.com/us/app/final-fantasy-xiv-companion/id1293636320
+icon: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/05/7f/a4/057fa404-d590-f46d-cda9-bc0ab75782f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+bypasses:
+- name: Hestia
+  notes: Use with Choicy or libhooker-configurator. Disable all other tweaks except
+    Hestia.
