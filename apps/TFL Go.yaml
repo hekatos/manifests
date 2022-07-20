@@ -1,5 +1,5 @@
 name: TfL Go
-uri: https://apps.apple.com/gb/app/tfl-go-live-tube-bus-rail/id1419541638
+uri: https://apps.apple.com/gb/app/tfl-go-live-tube-bus-rail/id1419541638 
 bypasses: 
 - name: A-Bypass
 - name: Shadow
