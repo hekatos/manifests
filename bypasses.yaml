@@ -2,7 +2,7 @@
 #  notes: Paid bypass with in-app activation. [Direct .deb download link](http://beinapple.me/debs/109.deb).
 
 A-Bypass:
-  guide: https://bypass.beerpsi.me/tools/tweaks/#a-bypass 
+  guide: https://bypass.beerpsi.me/tools/tweaks/#a-bypass
   repository:
     uri: https://repo.co.kr
 
@@ -70,10 +70,6 @@ GenshinJailbreakBypass:
 GojekEnabler:
   repository:
     uri: https://bypass.beerpsi.me/repo
-
-TikTok God:
-  repository:
-    uri: https://haoict.github.io
 
 Gympass JB Bypass:
   repository:
@@ -174,6 +170,10 @@ SxBypass:
 TCBNoJB:
   repository:
     uri: https://bypass.beerpsi.me/repo
+
+TikTok God:
+  repository:
+    uri: https://haoict.github.io
 
 UKGBP:
   repository:
