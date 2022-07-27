@@ -109,7 +109,7 @@ KernBypass:
 
 Liberty Lite (Beta):
   guide: https://bypass.beerpsi.me/tools/tweaks/#liberty-lite-beta
-  notes: Liberty is currently broken on unc0ver (14.4+).
+  notes: Not working, causes apps to crash.
   repository:
     uri: https://ryleyangus.com/repo
 
