@@ -1,0 +1,8 @@
+name: QuickBooks Time Tracking
+bundleId: com.tsheets.greatwhite.TSheets
+uri: https://apps.apple.com/us/app/quickbooks-time-tracking/id864076487
+icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f0/b9/30/f0b9307a-94ef-37dc-399f-d089bb46639c/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+bypasses:
+- name: Choicy
+- name: libhooker-configurator
+- name: vnodebypass
